@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fae35d3-fd1f-47e5-a5fa-dbfdfcca03a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/es/ulpgc/bowling/PlayerScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ulpgc/bowling/PlayerScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/new_file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/ulpgc/bowling/PlayerScoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/es/ulpgc/bowling/PlayerScoreTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2244" />
+          <entry key="java" value="2259" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2244" />
+          <entry key="JAVA" value="2259" />
         </counts>
       </usages-collector>
     </session>
@@ -69,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/bowling/PlayerScore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="170">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,7 +158,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540206138048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540206340098" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bowling_Game" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
@@ -234,12 +230,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlayerScoreTest - 2018.10.22 at 10h 51m 58s.xml">
-      <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="PlayerScoreTest - 2018.10.22 at 10h 52m 15s.xml">
-      <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="PlayerScoreTest - 2018.10.22 at 10h 52m 28s.xml">
       <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
     </history-entry>
@@ -262,6 +252,12 @@
       <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="PlayerScoreTest - 2018.10.22 at 11h 02m 11s.xml">
+      <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="PlayerScoreTest - 2018.10.22 at 11h 04m 32s.xml">
+      <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="PlayerScoreTest - 2018.10.22 at 11h 04m 42s.xml">
       <configuration name="PlayerScoreTest" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
@@ -349,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/bowling/PlayerScore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="170">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

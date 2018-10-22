@@ -12,10 +12,7 @@ public class PlayerScore {
 
     public List<Frame> frames() {
         List<Frame> frames = new ArrayList<>();
-        for (int i = 0; i<rolls.size() && frames.size()<10;) {
-            frames.add(new Frame(i));
-            i += new Frame(i).isStrike() ? 1 : 2;
-        }
+        for (int i = 0; i<rolls.size() && frames.size()<10; i += new Frame(i).isStrike() ? 1 : 2) frames.add(new Frame(i));
         return frames;
     }
 
